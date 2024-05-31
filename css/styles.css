@@ -50,3 +50,15 @@ body {
     align-items: center;
 }
 
+.login label {
+    align-self: flex-start;
+    margin-bottom: 5px;
+    color: #333;
+}
+
+
+
+
+
+
+
