@@ -6,3 +6,10 @@ body {
     background-color: #d5e1f2;
 }
 
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
