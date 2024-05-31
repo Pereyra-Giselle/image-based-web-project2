@@ -20,3 +20,17 @@ body {
     text-align: center;
 }
 
+.login .logo {
+    width: 30px;
+}
+
+.login h1 {
+    font-size: 36px;
+    margin-bottom: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+
