@@ -13,3 +13,10 @@ body {
     height: 100vh;
 }
 
+.login {
+    background-color: white;
+    padding: 40px;
+    border-radius: 8px;
+    text-align: center;
+}
+
