@@ -56,9 +56,11 @@ body {
     color: #333;
 }
 
-
-
-
-
-
+.login input {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 20px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
 
