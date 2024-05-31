@@ -76,6 +76,21 @@ body {
 }
 
 
+.login button:hover {
+    background-color: #155ab7;
+}
+
+.login .register {
+    margin-top: 20px;
+}
+
+.login .register a {
+    color: #1a73e8;
+    text-decoration: none;
+}
+
+
+
 
 
 
